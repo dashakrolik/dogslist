@@ -1,3 +1,9 @@
+# Dogs list app
+
+## Overview: 
+Build an app making calls to a free public API called [Dog API](https://dog.ceo/dog-api/documentation/).
+The app has a list of dogs with images corresponding to the correct breed.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
